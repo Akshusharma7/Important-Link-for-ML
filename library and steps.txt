@@ -1,7 +1,7 @@
 IMPORTANT LIBRARY IN PYTHON:
 imblanced-learn -->  Data handle in EDA
 pyttsx3 --> python to connect speaker driver
-
+pyinstaller --> For creating EXE file
 
 
 
