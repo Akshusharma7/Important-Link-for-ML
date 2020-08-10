@@ -4,8 +4,6 @@ pyttsx3 --> python to connect speaker driver
 pyinstaller --> For creating .PY to .EXE file
 
 
-
-
 Steps for creating EXE file from .py file:
 1. pip install pyinstaller
 2. pyinstaller main.py
