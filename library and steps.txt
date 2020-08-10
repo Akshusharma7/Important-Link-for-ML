@@ -1,3 +1,8 @@
+IMPORTANT LIBRARY IN PYTHON:
+imblanced-learn -->  Data handle in EDA
+pyttsx3 --> python to connect speaker driver
+
+
 
 Steps for creating EXE file from .py file:
 1. pip install pyinstaller
