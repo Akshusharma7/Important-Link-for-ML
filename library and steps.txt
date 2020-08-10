@@ -1,0 +1,9 @@
+
+Steps for creating EXE file from .py file:
+1. pip install pyinstaller
+2. pyinstaller main.py
+3. pyinstaller --onefile --windowed main.py
+4. IF Recussion Error then Add it in spec file created : 
+    import sys
+    sys.setrecusionlimit(5000)
+5. pyinstaller main.spec
