@@ -6,7 +6,6 @@ pyinstaller --> For creating .PY to .EXE file
 subprocess  --> Handle CMD command to run.
 
 
-
 Steps for creating EXE file from .py file:
 1. pip install pyinstaller
 2. pyinstaller main.py
