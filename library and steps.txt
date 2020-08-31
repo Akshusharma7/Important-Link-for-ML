@@ -6,6 +6,7 @@ pyinstaller --> For creating .PY to .EXE file
 subprocess  --> Handle CMD command to run.
 cgi         --> TO retrive input from Webapp(Https or Http)
 
+
 Steps for creating EXE file from .py file:
 1. pip install pyinstaller
 2. pyinstaller main.py
