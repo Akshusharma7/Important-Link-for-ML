@@ -5,6 +5,11 @@ pyttsx3 --> python to connect speaker driver
 pyinstaller --> For creating .PY to .EXE file
 subprocess  --> Handle CMD command to run.
 cgi         --> TO retrive input from Webapp(Https or Http)
+pyDrive -- Google Drive to upload file
+unidecode -- To convert character into English
+base64   -- Image to encoded string for passing using server
+from pympler.asizeof import asizeof - checks size of any data structure
+sys.getsizeof(my_list)/1024/1024) - checks size of any data structure
 
 
 
