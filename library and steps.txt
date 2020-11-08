@@ -24,3 +24,5 @@ Steps for creating EXE file from .py file:
 5. pyinstaller main.spec
 
 
+
+
